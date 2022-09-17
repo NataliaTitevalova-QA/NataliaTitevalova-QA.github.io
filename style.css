@@ -1,0 +1,47 @@
+
+h1 {
+	font-family: Arial;
+	color: #C71585;
+	margin-left: 40px;
+}
+.about {
+font-family: Arial;
+color: #DB7093;
+margin-left: 40px;
+}
+h2 {
+	font-family: Arial;
+	color: #DB7093;
+
+}
+.contacts {
+	color: #4682B4;
+}
+section {
+	margin-left: 40px;
+}
+a {text-decoration: none;}
+button {
+	font-family: sans-serif;
+	color: #696969;
+	margin-left: 80px;
+}
+audio {
+	margin-left: 40px;
+
+}
+img {
+	margin-left: 40px;
+	border-color: #A9A9A9;  
+}
+
+h6 {
+	font-family: sans-serif;
+	margin-left: 40px;
+	color: #A9A9A9;
+}
+footer {
+	color:#C71585;
+	font-family: arial;
+	margin-left: 40px;
+}
