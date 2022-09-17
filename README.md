@@ -1,2 +1,2 @@
-# NataliaTitevalova-QA.hitgub.io
+# nataliatitevalova-qa.github.io
 Сайт-визитка
